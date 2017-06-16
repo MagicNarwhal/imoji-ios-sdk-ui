@@ -136,7 +136,6 @@ extern NSUInteger const IMCollectionViewNumberOfItemsToLoad;
 /**
  * @abstract Loads Imoji categories into the collection view using getImojiCategoriesWithOptions from IMImojiSession
  * @param categoryFetchOptions A set of options for category retrieval.
- * @param contextualSearchPhrase When set, instructs the server to return categories relevant to the search phrase.
  */
 - (void)loadImojiCategoriesWithOptions:(nullable IMCategoryFetchOptions *)categoryFetchOptions;
 
@@ -210,7 +209,7 @@ extern NSUInteger const IMCollectionViewNumberOfItemsToLoad;
 
 /**
  * Loads a preloaded set of Imoji Category objects into the collection view.
- * @param imojis The preloaded set of Imoji Category objects
+ * @param imojiCategories The preloaded set of Imoji Category objects
  * @param header The header to set
  */
 - (void)loadImojiCategoriesFromArray:(nonnull NSArray<IMImojiCategoryObject *> *)imojiCategories withHeader:(nullable NSString *)header;

@@ -33,7 +33,7 @@
 #import <ImojiSDKUI/IMCreateImojiViewController.h>
 #import <ImojiSDKUI/IMCameraViewController.h>
 
-@interface IMStickerSearchContainerView () <IMSearchViewDelegate, IMCollectionViewDelegate, IMCreateImojiViewControllerDelegate,
+@interface IMStickerSearchContainerView () <IMSearchViewDelegate, IMCollectionViewDelegate, IMCreateImojiViewControllerDelegate, IMCameraViewControllerDelegate,
         UIImagePickerControllerDelegate, UINavigationControllerDelegate, UIActionSheetDelegate>
 
 #else
