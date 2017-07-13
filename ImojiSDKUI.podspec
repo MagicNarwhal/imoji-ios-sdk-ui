@@ -14,7 +14,7 @@ Pod::Spec.new do |s|
   s.default_subspec = 'CollectionView'
 
   s.subspec 'CollectionView' do |ss|
-	ss.dependency "YYImage/WebP", :git => 'https://github.com/MagicNarwhal/YYImage.git'
+	ss.dependency "YYImage/WebP", '~>1.0'
 	ss.dependency "ImojiSDK/Core"
     ss.dependency "ImojiSDKUI/Common"
     ss.dependency "Masonry"
