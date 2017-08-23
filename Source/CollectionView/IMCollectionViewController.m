@@ -167,10 +167,12 @@ NSUInteger const IMCollectionViewControllerDefaultSearchDelayInMillis = 500;
         make.left.right.and.bottom.equalTo(self.view);
     }];
 
-    [self.searchView mas_remakeConstraints:^(MASConstraintMaker *make) {
-        make.height.and.top.and.right.and.left.equalTo(self.topToolbar);
-    }];
-
+    if (self.searchView.superview) {
+        [self.searchView mas_remakeConstraints:^(MASConstraintMaker *make) {
+            make.height.and.top.and.right.and.left.equalTo(self.searchView.superview);
+        }];
+    }
+    
     self.bottomToolbar.hidden = !self.bottomToolbar.items || self.bottomToolbar.items.count == 0;
 
     // hide the top toolbar if both of the default components are hidden
