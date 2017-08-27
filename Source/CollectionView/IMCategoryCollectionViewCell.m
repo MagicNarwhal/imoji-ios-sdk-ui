@@ -26,8 +26,8 @@
 #import "IMCategoryCollectionViewCell.h"
 #import <Masonry/View+MASAdditions.h>
 #import <YYImage/YYAnimatedImageView.h>
-#import <ImojiSDKUI/IMResourceBundleUtil.h>
-#import <ImojiSDKUI/IMAttributeStringUtil.h>
+#import "IMResourceBundleUtil.h"
+#import "IMAttributeStringUtil.h"
 
 NSString *const IMCategoryCollectionViewCellReuseId = @"IMCategoryCollectionViewCellReuseId";
 

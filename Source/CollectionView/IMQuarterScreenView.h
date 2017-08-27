@@ -24,7 +24,7 @@
 //
 
 #import <UIKit/UIKit.h>
-#import <ImojiSDKUI/IMStickerSearchContainerView.h>
+#import "IMStickerSearchContainerView.h"
 
 @interface IMQuarterScreenView : IMStickerSearchContainerView
 

@@ -24,7 +24,7 @@
 //
 
 #import <Masonry/View+MASAdditions.h>
-#import <ImojiSDKUI/IMCameraView.h>
+#import "IMCameraView.h"
 
 CGFloat const NavigationBarHeight = 82.0f;
 CGFloat const DefaultButtonTopOffset = 30.0f;

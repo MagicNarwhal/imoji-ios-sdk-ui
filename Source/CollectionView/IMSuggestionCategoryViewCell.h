@@ -24,7 +24,7 @@
 //
 
 #import <Foundation/Foundation.h>
-#import <ImojiSDKUI/IMCategoryCollectionViewCell.h>
+#import "IMCategoryCollectionViewCell.h"
 
 @interface IMSuggestionCategoryViewCell : IMCategoryCollectionViewCell
 @end

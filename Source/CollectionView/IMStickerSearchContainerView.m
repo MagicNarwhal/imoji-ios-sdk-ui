@@ -28,10 +28,10 @@
 #import <ImojiSDK/IMImojiObject.h>
 #import <Masonry/Masonry.h>
 
-#if __has_include(<ImojiGraphics/ImojiGraphics.h>) && __has_include(<ImojiSDKUI/IMCreateImojiViewController.h>) && !defined(IMOJI_APP_EXTENSION)
+#if __has_include(<ImojiGraphics/ImojiGraphics.h>) && __has_include(<ImojiSDKUI-MagicNarwhal/IMCreateImojiViewController.h>) && !defined(IMOJI_APP_EXTENSION)
 #define IMOJI_EDITOR_ENABLED 1
-#import <ImojiSDKUI/IMCreateImojiViewController.h>
-#import <ImojiSDKUI/IMCameraViewController.h>
+#import <ImojiSDKUI-MagicNarwhal/IMCreateImojiViewController.h>
+#import <ImojiSDKUI-MagicNarwhal/IMCameraViewController.h>
 
 @interface IMStickerSearchContainerView () <IMSearchViewDelegate, IMCollectionViewDelegate, IMCreateImojiViewControllerDelegate, IMCameraViewControllerDelegate,
         UIImagePickerControllerDelegate, UINavigationControllerDelegate, UIActionSheetDelegate>

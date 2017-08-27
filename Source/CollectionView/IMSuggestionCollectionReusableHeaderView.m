@@ -24,7 +24,7 @@
 //
 
 #import "IMSuggestionCollectionReusableHeaderView.h"
-#import <ImojiSDKUI/IMSuggestionView.h>
+#import "IMSuggestionView.h"
 #import <Masonry/Masonry.h>
 
 CGFloat const IMSuggestionCollectionReusableHeaderViewHeight = 62.f;

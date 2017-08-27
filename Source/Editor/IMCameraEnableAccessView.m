@@ -23,8 +23,8 @@
 //  IN THE SOFTWARE.
 //
 
-#import <ImojiSDKUI/IMCameraEnableAccessView.h>
-#import <ImojiSDKUI/IMAttributeStringUtil.h>
+#import "IMCameraEnableAccessView.h"
+#import "IMAttributeStringUtil.h"
 #import <Masonry/View+MASAdditions.h>
 
 @implementation IMCameraEnableAccessView

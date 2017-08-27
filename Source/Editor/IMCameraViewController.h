@@ -24,8 +24,8 @@
 //
 
 #import <ImojiSDK/IMImojiSession.h>
-#import <ImojiSDKUI/IMCameraView.h>
-#import <ImojiSDKUI/IMCameraEnableAccessView.h>
+#import "IMCameraView.h"
+#import "IMCameraEnableAccessView.h"
 
 @protocol IMCameraViewControllerDelegate;
 

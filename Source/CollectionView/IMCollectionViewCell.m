@@ -24,7 +24,7 @@
 //
 
 #import <Masonry/Masonry.h>
-#import <ImojiSDKUI/IMResourceBundleUtil.h>
+#import "IMResourceBundleUtil.h"
 #import <YYImage/YYImage.h>
 #import "IMCollectionViewCell.h"
 

@@ -23,7 +23,7 @@
 //  IN THE SOFTWARE.
 //
 
-#import <ImojiSDKUI/IMCollectionReusableHeaderView.h>
+#import "IMCollectionReusableHeaderView.h"
 
 @interface IMSuggestionCollectionReusableHeaderView : IMCollectionReusableHeaderView
 

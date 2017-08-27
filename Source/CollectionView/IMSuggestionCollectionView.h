@@ -24,7 +24,7 @@
 //
 
 #import <Foundation/Foundation.h>
-#import <ImojiSDKUI/IMCollectionView.h>
+#import "IMCollectionView.h"
 
 
 @interface IMSuggestionCollectionView : IMCollectionView

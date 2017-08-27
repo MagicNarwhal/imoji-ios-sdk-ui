@@ -25,9 +25,9 @@
 
 #import <ImojiSDK/IMArtist.h>
 #import <ImojiSDK/IMCategoryAttribution.h>
-#import <ImojiSDKUI/IMAttributeStringUtil.h>
-#import <ImojiSDKUI/IMResourceBundleUtil.h>
-#import <ImojiSDKUI/IMSuggestionCollectionReusableAttributionView.h>
+#import "IMAttributeStringUtil.h"
+#import "IMResourceBundleUtil.h"
+#import "IMSuggestionCollectionReusableAttributionView.h"
 #import <Masonry/Masonry.h>
 
 CGFloat const IMSuggestionCollectionReusableAttributionViewOffsetFromHeader = 10.0f;

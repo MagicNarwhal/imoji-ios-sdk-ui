@@ -24,7 +24,7 @@
 //
 
 #import <Foundation/Foundation.h>
-#import <ImojiSDKUI/IMCollectionViewStatusCell.h>
+#import "IMCollectionViewStatusCell.h"
 
 @interface IMSuggestionLoadingViewCell : IMCollectionViewStatusCell
 

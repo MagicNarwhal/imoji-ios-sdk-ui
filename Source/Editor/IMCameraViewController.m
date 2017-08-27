@@ -25,8 +25,8 @@
 
 #import <AVFoundation/AVFoundation.h>
 #import <CoreMotion/CoreMotion.h>
-#import <ImojiSDKUI/IMCameraViewController.h>
-#import <ImojiSDKUI/IMDrawingUtils.h>
+#import "IMCameraViewController.h"
+#import "IMDrawingUtils.h"
 #import <Masonry/View+MASAdditions.h>
 
 @interface IMCameraViewController () <UIImagePickerControllerDelegate, UINavigationControllerDelegate, IMCameraViewDelegate, IMCameraEnableAccessViewDelegate>

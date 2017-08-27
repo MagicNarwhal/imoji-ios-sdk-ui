@@ -23,16 +23,16 @@
 //  IN THE SOFTWARE.
 //
 
-#import <ImojiSDKUI/IMCollectionLoadingView.h>
-#import <ImojiSDKUI/IMCollectionViewCell.h>
-#import <ImojiSDKUI/IMSuggestionView.h>
-#import <ImojiSDKUI/IMSuggestionCategoryViewCell.h>
-#import <ImojiSDKUI/IMSuggestionCollectionView.h>
-#import <ImojiSDKUI/IMSuggestionCollectionReusableAttributionView.h>
-#import <ImojiSDKUI/IMSuggestionCollectionReusableHeaderView.h>
-#import <ImojiSDKUI/IMSuggestionLoadingViewCell.h>
-#import <ImojiSDKUI/IMSuggestionSplashViewCell.h>
-#import <ImojiSDKUI/IMSuggestionViewCell.h>
+#import "IMCollectionLoadingView.h"
+#import "IMCollectionViewCell.h"
+#import "IMSuggestionView.h"
+#import "IMSuggestionCategoryViewCell.h"
+#import "IMSuggestionCollectionView.h"
+#import "IMSuggestionCollectionReusableAttributionView.h"
+#import "IMSuggestionCollectionReusableHeaderView.h"
+#import "IMSuggestionLoadingViewCell.h"
+#import "IMSuggestionSplashViewCell.h"
+#import "IMSuggestionViewCell.h"
 #import <Masonry/Masonry.h>
 
 @implementation IMSuggestionCollectionView {

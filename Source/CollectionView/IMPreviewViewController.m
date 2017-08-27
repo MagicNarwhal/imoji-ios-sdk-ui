@@ -24,8 +24,8 @@
 //
 
 #import <ImojiSDK/IMImojiCategoryObject.h>
-#import <ImojiSDKUI/IMCollectionView.h>
-#import <ImojiSDKUI/IMPreviewViewController.h>
+#import "IMCollectionView.h"
+#import "IMPreviewViewController.h"
 #import <Masonry/View+MASAdditions.h>
 
 @interface IMPreviewViewController ()

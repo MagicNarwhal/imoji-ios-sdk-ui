@@ -24,9 +24,9 @@
 //
 
 #import <ImojiSDK/IMImojiSession.h>
-#import <ImojiSDKUI/IMSuggestionView.h>
+#import "IMSuggestionView.h"
 #import <Masonry/View+MASAdditions.h>
-#import <ImojiSDKUI/IMSuggestionCollectionView.h>
+#import "IMSuggestionCollectionView.h"
 
 CGFloat const IMSuggestionViewDefaultHeight = 91.f;
 CGFloat const IMSuggestionViewBorderHeight = 1.f;

@@ -27,7 +27,7 @@
 #import <UIKit/UIKit.h>
 #import "IMToolbar.h"
 #import "IMCollectionView.h"
-#import <ImojiSDKUI/IMSearchView.h>
+#import "IMSearchView.h"
 
 @class IMImojiSession;
 

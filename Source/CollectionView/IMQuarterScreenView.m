@@ -25,10 +25,10 @@
 
 #import "IMQuarterScreenView.h"
 #import <ImojiSDK/IMImojiCategoryObject.h>
-#import <ImojiSDKUI/IMResourceBundleUtil.h>
+#import "IMResourceBundleUtil.h"
 #import <Masonry/Masonry.h>
 
-#if __has_include(<ImojiGraphics/ImojiGraphics.h>) && __has_include(<ImojiSDKUI/IMCreateImojiViewController.h>) && !defined(IMOJI_APP_EXTENSION)
+#if __has_include(<ImojiGraphics/ImojiGraphics.h>) && __has_include(<ImojiSDKUI-MagicNarwhal/IMCreateImojiViewController.h>) && !defined(IMOJI_APP_EXTENSION)
 #define IMOJI_EDITOR_ENABLED 1
 #else
 #define IMOJI_EDITOR_ENABLED 0

@@ -24,10 +24,10 @@
 //
 
 #import <Masonry/Masonry.h>
-#import <ImojiSDKUI/IMCollectionViewController.h>
-#import <ImojiSDKUI/IMCategoryCollectionViewCell.h>
-#import <ImojiSDKUI/IMPreviewViewController.h>
-#import <ImojiSDKUI/IMResourceBundleUtil.h>
+#import "IMCollectionViewController.h"
+#import "IMCategoryCollectionViewCell.h"
+#import "IMPreviewViewController.h"
+#import "IMResourceBundleUtil.h"
 #import <ImojiSDK/IMImojiCategoryObject.h>
 #import <ImojiSDK/IMImojiObject.h>
 

@@ -26,7 +26,7 @@
 #import "IMSuggestionCategoryViewCell.h"
 #import "IMResourceBundleUtil.h"
 #import <Masonry/Masonry.h>
-#import <ImojiSDKUI/IMAttributeStringUtil.h>
+#import "IMAttributeStringUtil.h"
 
 @implementation IMSuggestionCategoryViewCell {
 

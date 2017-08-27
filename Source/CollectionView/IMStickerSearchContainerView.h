@@ -24,9 +24,9 @@
 //
 
 #import <UIKit/UIKit.h>
-#import <ImojiSDKUI/IMCollectionView.h>
-#import <ImojiSDKUI/IMSearchView.h>
-#import <ImojiSDKUI/IMSuggestionView.h>
+#import "IMCollectionView.h"
+#import "IMSearchView.h"
+#import "IMSuggestionView.h"
 
 @protocol IMStickerSearchContainerViewDelegate;
 

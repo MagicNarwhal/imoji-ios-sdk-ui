@@ -24,8 +24,8 @@
 //
 
 #import <CoreText/CoreText.h>
-#import <ImojiSDKUI/IMAttributeStringUtil.h>
-#import <ImojiSDKUI/IMResourceBundleUtil.h>
+#import "IMAttributeStringUtil.h"
+#import "IMResourceBundleUtil.h"
 
 NSString *const IMAttributeStringUtilDefaultFont = @"HelveticaNeue-Medium";
 NSString *const IMAttributeStringUtilMontserratLight = @"Montserrat-Light";

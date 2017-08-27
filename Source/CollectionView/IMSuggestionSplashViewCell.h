@@ -24,7 +24,7 @@
 //
 
 #import <Foundation/Foundation.h>
-#import <ImojiSDKUI/IMCollectionViewSplashCell.h>
+#import "IMCollectionViewSplashCell.h"
 
 @interface IMSuggestionSplashViewCell : IMCollectionViewSplashCell
 

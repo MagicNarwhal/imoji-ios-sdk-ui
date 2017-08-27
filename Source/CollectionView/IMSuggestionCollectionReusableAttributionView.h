@@ -23,7 +23,7 @@
 //  IN THE SOFTWARE.
 //
 
-#import <ImojiSDKUI/IMCollectionReusableAttributionView.h>
+#import "IMCollectionReusableAttributionView.h"
 
 @interface IMSuggestionCollectionReusableAttributionView : IMCollectionReusableAttributionView
 
