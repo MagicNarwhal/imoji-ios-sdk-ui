@@ -1,5 +1,9 @@
 # Imoji iOS UI Widgets Changes
 
+### Version 2.2.4
+
+* Fixes documentation warnings.
+
 ### Version 2.2.3
 
 * Attribution images where not being reloaded properly sometimes.
