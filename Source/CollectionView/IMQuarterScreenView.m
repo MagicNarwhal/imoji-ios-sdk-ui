@@ -24,7 +24,7 @@
 //
 
 #import "IMQuarterScreenView.h"
-#import <ImojiSDK/IMImojiCategoryObject.h>
+#import <ImojiSDK_MagicNarwhal/IMImojiCategoryObject.h>
 #import "IMResourceBundleUtil.h"
 #import <Masonry/Masonry.h>
 

@@ -24,8 +24,8 @@
 //
 
 #import "IMStickerSearchContainerView.h"
-#import <ImojiSDK/IMImojiCategoryObject.h>
-#import <ImojiSDK/IMImojiObject.h>
+#import <ImojiSDK_MagicNarwhal/IMImojiCategoryObject.h>
+#import <ImojiSDK_MagicNarwhal/IMImojiObject.h>
 #import <Masonry/Masonry.h>
 
 #if __has_include(<ImojiGraphics/ImojiGraphics.h>) && __has_include(<ImojiSDKUI-MagicNarwhal/IMCreateImojiViewController.h>) && !defined(IMOJI_APP_EXTENSION)

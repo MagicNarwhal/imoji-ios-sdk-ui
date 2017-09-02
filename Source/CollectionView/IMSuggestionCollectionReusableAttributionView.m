@@ -23,8 +23,8 @@
 //  IN THE SOFTWARE.
 //
 
-#import <ImojiSDK/IMArtist.h>
-#import <ImojiSDK/IMCategoryAttribution.h>
+#import <ImojiSDK_MagicNarwhal/IMArtist.h>
+#import <ImojiSDK_MagicNarwhal/IMCategoryAttribution.h>
 #import "IMAttributeStringUtil.h"
 #import "IMResourceBundleUtil.h"
 #import "IMSuggestionCollectionReusableAttributionView.h"

@@ -25,7 +25,7 @@
 
 #import <Masonry/Masonry.h>
 #import "IMResourceBundleUtil.h"
-#import <YYImage/YYImage.h>
+#import <YYImage_MagicNarwhal/YYImage.h>
 #import "IMCollectionViewCell.h"
 
 #if IMMessagesFrameworkSupported

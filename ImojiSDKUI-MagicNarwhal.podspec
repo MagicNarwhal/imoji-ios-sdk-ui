@@ -14,8 +14,8 @@ Pod::Spec.new do |s|
   s.default_subspec = 'CollectionView'
 
   s.subspec 'CollectionView' do |ss|
-	ss.dependency "YYImage-MagicNarwhal", '~>1.0'
-	ss.dependency "ImojiSDK/Core"
+    ss.dependency "YYImage_MagicNarwhal", '~>1.0.7'
+    ss.dependency "ImojiSDK_MagicNarwhal/Core"
     ss.dependency "ImojiSDKUI-MagicNarwhal/Common"
     ss.dependency "Masonry"
 
@@ -24,7 +24,7 @@ Pod::Spec.new do |s|
   end
 
   s.subspec 'Editor' do |ss|
-    ss.dependency "ImojiSDK/Core"
+    ss.dependency "ImojiSDK_MagicNarwhal/Core"
     ss.dependency "ImojiSDKUI-MagicNarwhal/Common"
     ss.dependency "Masonry"
 

@@ -28,8 +28,8 @@
 #import "IMCategoryCollectionViewCell.h"
 #import "IMPreviewViewController.h"
 #import "IMResourceBundleUtil.h"
-#import <ImojiSDK/IMImojiCategoryObject.h>
-#import <ImojiSDK/IMImojiObject.h>
+#import <ImojiSDK_MagicNarwhal/IMImojiCategoryObject.h>
+#import <ImojiSDK_MagicNarwhal/IMImojiObject.h>
 
 CGFloat const IMCollectionViewControllerBottomBarDefaultHeight = 60.0f;
 CGFloat const IMCollectionViewControllerTopBarDefaultHeight = 44.0f;

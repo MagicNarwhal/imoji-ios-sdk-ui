@@ -24,8 +24,8 @@
 //
 
 #import <UIKit/UIKit.h>
-#import <ImojiSDK/IMImojiImageReference.h>
-#import <ImojiSDK/IMImojiCategoryObject.h>
+#import <ImojiSDK_MagicNarwhal/IMImojiImageReference.h>
+#import <ImojiSDK_MagicNarwhal/IMImojiCategoryObject.h>
 
 @interface IMPreviewViewController : UIViewController
 

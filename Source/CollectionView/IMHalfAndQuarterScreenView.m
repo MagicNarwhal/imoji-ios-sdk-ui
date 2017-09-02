@@ -24,7 +24,7 @@
 //
 
 #import "IMHalfAndQuarterScreenView.h"
-#import <ImojiSDK/IMImojiCategoryObject.h>
+#import <ImojiSDK_MagicNarwhal/IMImojiCategoryObject.h>
 #import <Masonry/Masonry.h>
 
 @interface IMHalfAndQuarterScreenView () <IMSearchViewDelegate, IMCollectionViewDelegate>

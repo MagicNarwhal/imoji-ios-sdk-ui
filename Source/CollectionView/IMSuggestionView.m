@@ -23,7 +23,7 @@
 //  IN THE SOFTWARE.
 //
 
-#import <ImojiSDK/IMImojiSession.h>
+#import <ImojiSDK_MagicNarwhal/IMImojiSession.h>
 #import "IMSuggestionView.h"
 #import <Masonry/View+MASAdditions.h>
 #import "IMSuggestionCollectionView.h"

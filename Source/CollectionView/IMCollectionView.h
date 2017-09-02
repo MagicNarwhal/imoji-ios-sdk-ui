@@ -25,9 +25,9 @@
 
 #import <Foundation/Foundation.h>
 #import <UIKit/UIKit.h>
-#import <ImojiSDK/IMImojiSession.h>
-#import <ImojiSDK/IMCategoryFetchOptions.h>
-#import <ImojiSDK/IMImojiImageReference.h>
+#import <ImojiSDK_MagicNarwhal/IMImojiSession.h>
+#import <ImojiSDK_MagicNarwhal/IMCategoryFetchOptions.h>
+#import <ImojiSDK_MagicNarwhal/IMImojiImageReference.h>
 #import "IMCollectionViewSplashCell.h"
 
 typedef NS_ENUM(NSUInteger, IMCollectionViewContentType) {

@@ -23,7 +23,7 @@
 //  IN THE SOFTWARE.
 //
 
-#import <ImojiSDK/IMImojiSession.h>
+#import <ImojiSDK_MagicNarwhal/IMImojiSession.h>
 #import "IMCameraView.h"
 #import "IMCameraEnableAccessView.h"
 

@@ -25,7 +25,7 @@
 
 #import <Foundation/Foundation.h>
 #import <UIKit/UIKit.h>
-#import <ImojiSDK/ImojiSDK.h>
+#import <ImojiSDK_MagicNarwhal/ImojiSDK.h>
 
 @class IMImojiObject;
 
