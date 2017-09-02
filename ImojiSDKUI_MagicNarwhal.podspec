@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
 
-  s.name     = 'ImojiSDKUI-MagicNarwhal'
+  s.name     = 'ImojiSDKUI_MagicNarwhal'
   s.version  = '2.2.4'
   s.license  = 'MIT'
   s.summary  = 'iOS UI Widgets for Imoji Integration. Integrate Stickers and custom emojis into your applications easily!'
@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   s.subspec 'CollectionView' do |ss|
     ss.dependency "YYImage_MagicNarwhal", '~>1.0.7'
     ss.dependency "ImojiSDK_MagicNarwhal/Core"
-    ss.dependency "ImojiSDKUI-MagicNarwhal/Common"
+    ss.dependency "ImojiSDKUI_MagicNarwhal/Common"
     ss.dependency "Masonry"
 
     ss.ios.source_files = 'Source/CollectionView/**/*.{h,m}'
@@ -25,7 +25,7 @@ Pod::Spec.new do |s|
 
   s.subspec 'Editor' do |ss|
     ss.dependency "ImojiSDK_MagicNarwhal/Core"
-    ss.dependency "ImojiSDKUI-MagicNarwhal/Common"
+    ss.dependency "ImojiSDKUI_MagicNarwhal/Common"
     ss.dependency "Masonry"
 
     ss.vendored_frameworks = 'Frameworks/ImojiGraphics.framework'
