@@ -1,5 +1,9 @@
 # Imoji iOS UI Widgets Changes
 
+### Version 2.2.5
+
+* Fixes YYImage_MagicNarwhal pod reference.
+
 ### Version 2.2.4
 
 * Fixes documentation warnings.
